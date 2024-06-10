@@ -11,6 +11,9 @@ public class VDT {
         System.out.println("Product :" + (a * b));
         System.out.println("Sub :" + (a - b));
         System.out.println("Division: " + (a / b));
+        System.out.print("Enter the Radius :");
+        float radius = sc.nextFloat();
+        System.out.println("Area of Circle :" + (3.14 * radius * radius));
         sc.close();
     }
     
