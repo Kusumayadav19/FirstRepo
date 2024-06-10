@@ -1,2 +1,2 @@
 # FirstRepo
-#100challenge DSA with JAVA
+#100dayschallenge DSA with JAVA
